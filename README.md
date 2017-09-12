@@ -20,3 +20,10 @@
  - [Example-8.html](//bhansa.github.io/Web-vr-examples/Example-8.html)
  - [Example-9.html](//bhansa.github.io/Web-vr-examples/Example-9.html)
  - [Animation Example](//bhansa.github.io/Web-vr-examples/animation-example)
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" />
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
+<![endif]-->
+<a class="github-fork-ribbon" href="https://github.com/bhansa/Web-vr-examples" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
