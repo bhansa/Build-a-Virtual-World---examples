@@ -1,0 +1,36 @@
+<!doctype html>
+<!--
+    In this example you will see how to work with animation.
+    See Next -> Example-6.html
+-->
+<html>
+
+<head>
+    <title>Animation Example</title>
+    <script src="https://aframe.io/releases/latest/aframe.min.js"></script>
+</head>
+
+<body>
+
+    <a-scene>
+
+        <!-- A Cylinder -->
+        <a-cylinder position="-4 1 0" color="#ed2d5e" height="2" radius="1">
+            <a-animation attribute="rotation" to="360 0 360" dur="2000" easing="linear" repeat="indefinite"></a-animation>
+        </a-cylinder>
+
+        <!-- A Sphere -->
+        <a-sphere position="0 1 0" color="#ed2d5e">
+            <a-animation attribute="position" from="-1 1 0" to="2 1 0" dur="10000" easing="linear" repeat="indefinite" direction="alternate"></a-animation>
+        </a-sphere>
+
+        <!-- A Cube -->
+        <a-cube position="4 1 0" width="1" height="1" depth="1" color="#ed2d5e">
+            <a-animation attribute="rotation" to="0 360 0" dur="2000" easing="linear" repeat="indefinite"></a-animation>
+        </a-cube>
+
+    </a-scene>
+
+</body>
+
+</html>
