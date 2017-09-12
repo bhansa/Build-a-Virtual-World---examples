@@ -19,4 +19,4 @@
  - [Example-7.html](//bhansa.github.io/Web-vr-examples/Example-7.html)
  - [Example-8.html](//bhansa.github.io/Web-vr-examples/Example-8.html)
  - [Example-9.html](//bhansa.github.io/Web-vr-examples/Example-9.html)
- - [Animation Example](//bhansa.github.io/Web-vr-examples/animation-example.html)
+ - [Animation Example](//bhansa.github.io/Web-vr-examples/animation-example)
