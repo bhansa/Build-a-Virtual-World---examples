@@ -1,6 +1,6 @@
 
 # It's all about a Good Experience
----
+
 ##WebVR Activity for Mozilla Campus Clubs program
 
 [Check the activity in this link](https://mozillacampusclubs.github.io/Build-a-Virtual-World/) for more information:
@@ -31,21 +31,8 @@
 
  ## [Introduction to A-Frame](https://aframe.io/aframe-presentation-kit/#/)
 
-<author>[@bhansa](https://github.com/bhansa)</author>
-
-
-
-<style>
-    author{
-        background:#ccc;
-        color:#000;
-        padding:10px;
-        width:100%;
-        position:fixed;
-        text-align:center;
-        bottom:0;
-    }
-</style>
+----  
+[@bhansa](https://github.com/bhansa)
 
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" />
 <!--[if lt IE 9]>
